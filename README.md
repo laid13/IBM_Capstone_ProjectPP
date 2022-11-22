@@ -1,9 +1,6 @@
 # IBM_Capstone_ProjectPP
+
 Projet IBM Data Analyst Professional Capstone
-
-Lien vers le tableau de bord d'analyse :🔗
-
-Lien de présentation du projet :🔗
 
 Dans ce projet, en tant qu'analyste de données pour l'entreprise, j'ai entrepris les tâches de collecte de données à partir de plusieurs sources, d'analyse exploratoire des données, de préparation et de préparation des données, d'analyse statistique et d'exploration des données, de création de graphiques et de tracés pour visualiser les données, et la création d'un tableau de bord interactif à l'aide d'IBM Cognos Analytics.
 
